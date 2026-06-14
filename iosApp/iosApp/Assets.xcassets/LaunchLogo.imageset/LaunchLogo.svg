@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+    <!-- Фон (Seed) -->
+    <rect width="1024" height="1024" fill="#1D3557" />
+
+    <!-- Группа с рисунком, отцентрированная по всем осям -->
+    <g>
+        <!-- Линия (Secondary) — симметричная кривая Безье -->
+        <path
+            d="M 212,750 C 400,750 400,274 512,274 C 624,274 700,512 812,512"
+            stroke="#2B6485"
+            stroke-width="36"
+            stroke-linecap="round"
+            fill="none" />
+
+        <!-- Точка 1 (Левая нижняя) -->
+        <circle cx="212" cy="750" r="54" fill="#2B6485" />
+        <circle cx="212" cy="750" r="32" fill="#1D3557" />
+        <circle cx="212" cy="750" r="14" fill="#FFFFFF" />
+
+        <!-- Точка 2 (Верхняя центральная) -->
+        <circle cx="512" cy="274" r="54" fill="#2B6485" />
+        <circle cx="512" cy="274" r="32" fill="#1D3557" />
+        <circle cx="512" cy="274" r="14" fill="#FFFFFF" />
+
+        <!-- Точка 3 (Правая средняя) -->
+        <circle cx="812" cy="512" r="54" fill="#2B6485" />
+        <circle cx="812" cy="512" r="32" fill="#1D3557" />
+        <circle cx="812" cy="512" r="14" fill="#FFFFFF" />
+    </g>
+</svg>
