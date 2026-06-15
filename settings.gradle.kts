@@ -1,4 +1,4 @@
-rootProject.name = "Proxima"
+rootProject.name = "Nodal"
 
 pluginManagement {
     repositories {
