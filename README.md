@@ -22,7 +22,7 @@
 ## Структура
 
 ```
-shared/src/commonMain/kotlin/proxima/app/
+shared/src/commonMain/kotlin/nodal/app/
 ├── data/            # MainStore — общее состояние
 ├── di/              # Koin-модули
 ├── domain/

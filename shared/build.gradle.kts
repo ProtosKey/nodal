@@ -78,7 +78,7 @@ dependencies {
     debugImplementation(libs.compose.ui.tooling)
 }
 android {
-    namespace = "proxima.app"
+    namespace = "nodal.app"
     compileSdk = 35
     defaultConfig {
         minSdk = 24
